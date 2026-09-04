@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0fdfd8b6-6bd9-4a88-a2a6-ced5ec2a1baf">
+  <name>ВКМ_ОбслуживаниеКлиентов</name>
+  <synonym>
+    <key>ru</key>
+    <value>Обслуживание клиентов</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>Document.ВКМ_ОбслуживаниеКлиента</content>
+  <content>Catalog.ВКМ_УведомленияТелеграмБоту</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеКлиентуРаботы</content>
+  <content>Catalog.ВКМ_ОбслуживаниеКлиентаПрисоединенныеФайлы</content>
+  <content>Role.ВКМ_ДобавлениеИзменениеОбслуживанияКлиентов</content>
+  <content>Role.ВКМ_ЧтениеОбслуживанияКлиентов</content>
+  <content>Constant.ВКМ_ТокенТелеграмБот</content>
+  <content>Constant.ВКМ_ИдентификаторГруппыТелеграм</content>
+  <content>CommonModule.ВКМ_Телеграм</content>
+  <content>ScheduledJob.ВКМ_ОтправитьУведомленияТелеграмБоту</content>
+  <content>Constant.ВКМ_НоменклатураАбонентскаяПлата</content>
+  <content>Constant.ВКМ_НоменклатураРаботыСпециалиста</content>
+  <content>DataProcessor.ВКМ_МассовоеСозданиеАктов</content>
+  <content>Role.ВКМ_АвтоматическоеЗаполнениеСозданиеАктов</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Report.ВКМ_АнализВыставленныхАктов</content>
+  <content>AccumulationRegister.Продажи</content>
+  <content>Catalog.ДоговорыКонтрагентов</content>
+  <content>Catalog.ВКМ_Сотрудники</content>
+  <content>DataProcessor.ВКМ_КалендарьСпециалистов</content>
+</mdclass:Subsystem>

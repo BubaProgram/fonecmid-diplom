@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Subsystem xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="0a024dc1-cafb-43da-837e-9f7791e47c96">
+  <name>ВКМ_РасчетУправленческойЗарплаты</name>
+  <synonym>
+    <key>ru</key>
+    <value>Расчет управленческой зарплаты</value>
+  </synonym>
+  <includeHelpInContents>true</includeHelpInContents>
+  <includeInCommandInterface>true</includeInCommandInterface>
+  <content>ChartOfCalculationTypes.ВКМ_ОсновныеНачисления</content>
+  <content>CalculationRegister.ВКМ_ОсновныеНачисления</content>
+  <content>ChartOfCalculationTypes.ВКМ_ДополнительныеНачисления</content>
+  <content>Document.ВКМ_НачислениеФиксированнойПремии</content>
+  <content>Document.ВКМ_НачисленияЗарплаты</content>
+  <content>InformationRegister.ВКМ_УсловияОплатыСотрудников</content>
+  <content>AccumulationRegister.ВКМ_ВыполненныеСотрудникомРаботы</content>
+  <content>CalculationRegister.ВКМ_Удержания</content>
+  <content>CalculationRegister.ВКМ_ДополнительныеНачисления</content>
+  <content>Constant.ВКМ_НДФЛ</content>
+  <content>InformationRegister.ВКМ_График</content>
+  <content>DataProcessor.ВКМ_ВспомогательныеФункции</content>
+  <content>AccumulationRegister.ВКМ_ВзаиморасчетыССотрудниками</content>
+  <content>Document.ВКМ_ВыплатаЗарплаты</content>
+  <content>Document.ВКМ_ГрафикОтпусков</content>
+  <content>Role.ВКМ_РасчетЗарплаты</content>
+  <content>ChartOfCalculationTypes.ВКМ_Удержания</content>
+  <content>Report.ВКМ_ВыработкаСпециалистов</content>
+  <content>Report.ВКМ_РасчетыССотрудниками</content>
+  <content>Enum.ВКМ_Сценарий</content>
+  <content>AccumulationRegister.ВКМ_Отпуска</content>
+  <content>Report.ВКМ_РасходЗапланированныхОтпусков</content>
+  <content>Catalog.ВКМ_Сотрудники</content>
+</mdclass:Subsystem>
